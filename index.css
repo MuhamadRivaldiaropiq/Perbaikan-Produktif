@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(244, 247, 249);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.home {
+font-size: 40px;
+}
+.penghubung {
+    height: 50px;
+    border-radius: 16px;
+}
+.p {
+    height: 50px;
+    border-radius: 16px;
+
+}
+.gaya img {
+    width: 200px;
+    display: flex;
+    margin-bottom: 15px;
+}

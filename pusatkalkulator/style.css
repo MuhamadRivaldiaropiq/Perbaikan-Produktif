@@ -1,0 +1,63 @@
+body {
+    background-color: rgb(46, 140, 222);
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+.card {
+    background-color: aliceblue;
+    width: 260px;
+    height: 550px;
+    border-radius: 20px;
+    margin-top: 2rem;
+}
+.coba {
+    transform: translateX(5%) translateY(-1%);
+}
+.layar {
+    width: 14.7rem;
+    height: 10rem;
+    border-radius: 20px;
+    padding: 1px;
+    margin-top: 10px;
+    margin-right: 4px;
+    text-align: end;
+    font-size: 40px;
+}
+.button {
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    margin: 2px;
+    cursor: text;
+    border: none;
+    background: green;
+    color: blanchedalmond;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+.home {
+    text-align: center;
+    padding-top: 50%;
+    color: blueviolet;
+}
+.gaya button{
+    height: 100px;
+    width: 100px;
+    border-radius: 30px;
+    border: none;
+    text-decoration: none;
+}
+.kembali {
+    height: 50px;
+    width: 50px;
+    font-size: 25px;
+    margin: 2px;
+    cursor: text;
+    border: none;
+    background: green;
+    color: blanchedalmond;
+    border-radius: 50%;
+    margin-top: 20px;
+}
